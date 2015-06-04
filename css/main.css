@@ -13,20 +13,25 @@ body{
 .container{
 	margin:auto;
 }
+h1,h4{
+	text-align:center;
+	color:#333;
+}
 h1{
 	font-size:55pt;
 	padding:15px;
 	padding-top:30px;
+	
 }
 h4{
 	padding:15px;
 	font-size:25pt;
 }
-h1,h4{
-	text-align:center;
-	color:#EEE;
-}
+
 table{
 	align:center;
 	margin:auto;
+}
+.card-heading{
+	text-align:center;
 }
